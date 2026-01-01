@@ -7,3 +7,5 @@ Let me push the code to git hub using push command.
 Edited this line in git repo to pull the image to local CLI.
 
 Addedthis line to create a test branch and push to the github repo under under the test_branch.
+
+Adding this line to push the test branch code to master branch and updaing the line.
