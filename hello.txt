@@ -3,3 +3,5 @@ HELLO GIT
 Added a new line to learn the things.
 
 Let me push the code to git hub using push command.
+
+Edited this line in git repo to pull the image to local CLI.
